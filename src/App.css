@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: black;
+}
+
+h1, h2, h3 {
+  color: white;
+}
+
+input::placeholder {
+  font-style: italic;
+}
